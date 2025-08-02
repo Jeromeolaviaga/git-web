@@ -1,1 +1,3 @@
-wdawd  
+?>
+echo'wdawad';
+>?
